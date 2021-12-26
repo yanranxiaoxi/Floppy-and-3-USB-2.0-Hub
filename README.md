@@ -14,6 +14,8 @@
 
 *添加模拟软盘纯属为了六边形的规整又不想浪费那一个 USB 接口的折(~~yu~~)中(~~chun~~)方式，建议选择不焊接模拟软盘部分电路。
 
+本 PCB 设计已通过完整功能性测试，且已添加 [嘉立创](https://www.jlc.com/) SMT 定位孔，可直接进行 SMT 贴片生产。但请注意，本设计完整开源并遵循 [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/) 开源协议，开源作者不对作品的安全性、完整性作任何承诺，且不对因此产生的任何损失承担后果。
+
 你可以使用本项目的 [焊接助手](https://htmlpreview.soraharu.com/?https://gitlab.soraharu.com/XiaoXi/Floppy-and-3-USB-2.0-Hub/-/raw/master/InteractiveHtmlBom/index.html) 有效地提升手工焊接效率，本助手通过 [InteractiveHtmlBom](https://gitlab.soraharu.com/XiaoXi/InteractiveHtmlBom) 自动生成。
 
 ## 🛠️ 生产电路板
@@ -28,7 +30,14 @@
 
 1. 克隆本项目 [源代码](https://gitlab.soraharu.com/XiaoXi/Floppy-and-3-USB-2.0-Hub/-/archive/master/Floppy-and-3-USB-2.0-Hub-master.zip) 到本地
 2. 在立创 EDA 标准版编辑器中选择 `文件` -> `打开` -> `立创EDA...`
-3. 选择本项目源代码中的 `/EasyEDA/1-*.json` 文件并分别导入
+3. 选择本项目源代码中的 `/EasyEDA/*.json` 文件并分别导入
+
+## 🔤 字体
+
+警告：本项目包含仅个人使用（禁止商用）和免费个人使用（付费商用）的字体素材，虽然本设计授权用户在开源许可范围内的商业目的使用，但是项目所使用的字体库并不包含在该授权范围内，商业使用时请注意处理版权风险。
+
+- SAO UI Regular | [下载](https://www.deviantart.com/darkblackswords/art/Sword-Art-Online-Font-Download-426603647) | [官方](https://www.deviantart.com/darkblackswords/art/Sword-Art-Online-Font-342305125) | Only for Personal Use, Not for Commercial Use
+- 字玩翻滚积木简 | [官方](http://www.reeji.com/font/1cb912a968b7721aaf83d9e405c6d48b) | Free for Personal Use
 
 ## 📜 开源许可
 
