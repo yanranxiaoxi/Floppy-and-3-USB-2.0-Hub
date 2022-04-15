@@ -2,6 +2,9 @@
 
 ⭐ 模拟软盘与 3×USB 2.0 集线器 ⭐
 
+[![pipeline status](https://gitlab.soraharu.com/XiaoXi/Floppy-and-3-USB-2.0-Hub/badges/master/pipeline.svg)](https://gitlab.soraharu.com/XiaoXi/Floppy-and-3-USB-2.0-Hub/-/commits/master)
+[![Latest Release](https://gitlab.soraharu.com/XiaoXi/Floppy-and-3-USB-2.0-Hub/-/badges/release.svg)](https://gitlab.soraharu.com/XiaoXi/Floppy-and-3-USB-2.0-Hub/-/releases)
+
 🔗 [GitLab (Homepage)](https://gitlab.soraharu.com/XiaoXi/Floppy-and-3-USB-2.0-Hub) | 🔗 [OSHWHub](https://oshwhub.com/yanranxiaoxi/Floppy-and-3-USB-2-0-Hub)
 
 ![实拍图](https://downloadserver.soraharu.com:7000/Floppy%20and%203%C3%97USB%202.0%20Hub/Image/Product_quality_5.jpg)
@@ -14,9 +17,11 @@
 
 *添加模拟软盘纯属为了六边形的规整又不想浪费那一个 USB 接口的折(~~yu~~)中(~~chun~~)方式，建议选择不焊接模拟软盘部分电路。
 
+## 🍭 使用说明
+
 本 PCB 设计已通过完整功能性测试，且已添加 [嘉立创](https://www.jlc.com/) SMT 定位孔，可直接进行 SMT 贴片生产。但请注意，本设计完整开源并遵循 [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/) 开源协议，开源作者不对作品的安全性、完整性作任何承诺，且不对因此产生的任何损失承担后果。
 
-你可以使用本项目的 [焊接助手](https://htmlpreview.soraharu.com/?https://gitlab.soraharu.com/XiaoXi/Floppy-and-3-USB-2.0-Hub/-/raw/master/InteractiveHtmlBom/index.html) 有效地提升手工焊接效率，本助手通过 [InteractiveHtmlBom](https://gitlab.soraharu.com/XiaoXi/InteractiveHtmlBom) 自动生成。
+你可以使用本项目的 [焊接助手](https://interactivehtmlbom.soraharu.com/Floppy-and-3-USB-2.0-Hub.html) 有效地提升手工焊接效率，本助手通过 [InteractiveHtmlBom](https://gitlab.soraharu.com/XiaoXi/InteractiveHtmlBom) 流水线自动化生成。
 
 ## 🛠️ 生产电路板
 
