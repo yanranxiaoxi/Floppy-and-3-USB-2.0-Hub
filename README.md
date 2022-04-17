@@ -2,9 +2,7 @@
 
 ⭐ 模拟软盘与 3×USB 2.0 集线器 ⭐
 
-[![pipeline status](https://gitlab.soraharu.com/XiaoXi/Floppy-and-3-USB-2.0-Hub/badges/master/pipeline.svg)](https://gitlab.soraharu.com/XiaoXi/Floppy-and-3-USB-2.0-Hub/-/commits/master)
-[![Latest Release](https://gitlab.soraharu.com/XiaoXi/Floppy-and-3-USB-2.0-Hub/-/badges/release.svg)](https://gitlab.soraharu.com/XiaoXi/Floppy-and-3-USB-2.0-Hub/-/releases)
-[![vercel](https://vercelbadge.soraharu.com/?app=interactivehtmlbom)](https://interactivehtmlbom.soraharu.com/)
+[![pipeline status](https://gitlab.soraharu.com/XiaoXi/Floppy-and-3-USB-2.0-Hub/badges/master/pipeline.svg)](https://gitlab.soraharu.com/XiaoXi/Floppy-and-3-USB-2.0-Hub/-/commits/master) [![Latest Release](https://gitlab.soraharu.com/XiaoXi/Floppy-and-3-USB-2.0-Hub/-/badges/release.svg)](https://gitlab.soraharu.com/XiaoXi/Floppy-and-3-USB-2.0-Hub/-/releases) [![vercel](https://vercelbadge.soraharu.com/?app=interactivehtmlbom)](https://interactivehtmlbom.soraharu.com/)
 
 🔗 [GitLab (Homepage)](https://gitlab.soraharu.com/XiaoXi/Floppy-and-3-USB-2.0-Hub) | 🔗 [OSHWHub](https://oshwhub.com/yanranxiaoxi/Floppy-and-3-USB-2-0-Hub) | 🔗 [GitHub](https://github.com/yanranxiaoxi/Floppy-and-3-USB-2.0-Hub)
 
